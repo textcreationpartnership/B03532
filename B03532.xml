@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Sr. Harbottle Grimston baronet, Speaker of the honorable House of Commons, to the Kings Most Excellent Majestie. Delivered in the Banquetting-House at Whitehall, 29 May. 1660. The members of that House being there present.</title>
+            <author>Grimston, Harbottle, Sir, 1603-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03532</idno>
+            <idno type="STC">Wing G2041</idno>
+            <idno type="STC">ESTC R177643</idno>
+            <idno type="EEBO-CITATION">53299102</idno>
+            <idno type="OCLC">ocm 53299102</idno>
+            <idno type="VID">179863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179863)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2806:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Sr. Harbottle Grimston baronet, Speaker of the honorable House of Commons, to the Kings Most Excellent Majestie. Delivered in the Banquetting-House at Whitehall, 29 May. 1660. The members of that House being there present.</title>
+                  <author>Grimston, Harbottle, Sir, 1603-1685.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by a Society of Stationers,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Title vignette: royal seal with initials C R.</note>
+                  <note>Imperfect: creased, with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:179863:1"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <p>HONI SOIT QVI MAI Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>The Speech of Sr. <hi>Harbottle Grimſton Baronet,</hi> Speaker of the Honorab<gap reason="illegible: in crease" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Houſe of Commons, to the KINGS moſt Excellent MAJESTIE. Delivered in the Banquetting-Houſe at <hi>Whitehall,</hi> 
+               <date>
+                  <hi>May</hi> 29. 1660.</date> The Members of that Houſe being then preſent.</head>
+            <opener>
+               <salute>Moſt Gracious and Dread Soverign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F all the Reaſon and Eloquence that is diſperſed in ſo many ſeverall heads and tongues as are in the whole world, were conveyed into my brain, and united in my tongue, yet I ſhould want ſuffici<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncy t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſ<g ref="char:EOLhyphen"/>charge that great task I am now injoyn'd.</p>
+            <p>The Reſtitution of Your MAJESTY to the Exerciſe of Your juſt and moſt ind<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bi<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ative Right of Soveraignity, and the deliverance of Your People from bondage and ſlavery, hath t<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought out, and brought to paſſe, by a miraculous way of Divine Providence, beyond and <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reach and comprehenſion of our underſtandings, and therefore to be admired, impoſſible to be expreſſed.</p>
+            <p>God hath been pleaſed to train Your MAJESTY up in the School of affliction, where You have learn't that excellent leſſon of Patience ſo well, and improved it ſo much for the good of Your People, that <unclear>We</unclear> have all juſt cauſe for ever to bleſſe God for it, and We doubt not but Your Name is Regiſtred in the Records of Heaven, to have a place in the higheſt Forme, amongſt thoſe glorious Martyrs, of whom it is reported, That through Faith <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt, and patience in their ſufferings, they converted their very Tormenters, and conquered thoſe barbarous bloody <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rants under whom they then ſuffered; inſomuch as they themſelves were many times inforced to confeſſe, and cry out <hi>
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eſt viciſti Galilaeus;</hi> they had their <hi>(viciſti)</hi> and that deſervedly: But Your MAJESTY muſt have a treble <hi>(v<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ciſti)</hi> for with the ſame weapons, Faith and Patience, You have overcome and conquered the hearts and affections of all Your People in three great Nations, the hearts and affections of all that are worthy the Name of good Chriſtians, or reaſonable men.</p>
+            <p>'Tis God, and God alone, to whom be the glory, that hath made your Majeſty ſo great a Conquerour, indeed Your conqueſt is incomparable, no ſtory can inſtance the like, or furniſh us with an example to parallel it withal. 'Twas a uſe and cuſtome <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mongſt the <hi>Romans,</hi> when any of their Commanders had done eminent ſervices abroad, at their returns to honour them with triumphs, and riding through their ſtreets, there they received the praiſes and applauſes of the People, with this inſcript<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n upon their Laurel Crowns, <hi>Vincenti Dabitur;</hi> But your Majeſties victory is of another nature, and as it differs much from the<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s in the <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ua<g ref="char:EOLhyphen"/>lity of it, ſo your triumph muſt differ as much from theirs in the manner of it. They conquered bodies, but You<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſty hath conquered ſouls; they conquered for the honour and good of themſelves, but Your Majeſty hath conquered for th<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> honour and good of Your People; they conquered with force, but Your Majeſty hath conquered with Faith; they conquered with power, but Your Majeſty hath conquered with patience; and therefore God himſelf hath written Your Motto, and inſcrib'd it upon Your Royal Crown, <hi>(Patienti Dabitur)</hi> their triumphs were in narrow ſtreets, but Your Majeſties triumph mu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be in <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rge hearts; their triumphs laſted but for a day, but Your Majeſties triumph muſt laſt for all Your dayes, and after that, to triumph in heaven to all Eternity.</p>
+            <p>I have read of a Duke of <hi>Burgundy,</hi> who was called <hi>Carolus Audax;</hi> the Hiſtorian tells us that his father was calle<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arolus Bonus,</hi> an Obſervator hath this note upon it, That goodneſſe doth ever produce boldneſſe; Sir, You are the true Son o<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch a good Father, and ſo long as you ſerve our good God, He who is goodneſſe it ſelf, will give You boldneſſe, a Prince <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertue; and the beſt foyle Your Majeſty can uſe to ſet out the true luſtre of al Your other moſt eminent and lively graces.</p>
+            <p>Moſt Royal Soveraign, I have yet a few words more; and to doubt Your Patience, who in the mirrour of <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re, were to commit a crime unpardonable, and fit to be excepte<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that Act of Oblivion which Your Majeſty hath ſo graciouſly tendered unto Your People, Therefore with an humble <gap reason="illegible: damage" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>dence I ſhall preſume to acquaint Your Majeſty, <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I have it further in command to preſent You at this time with a <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etiti<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Right, and humbly upon my bended kn<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o beg Your Royal Aſſent thereunto. Sir, It hath already paſſed tw<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Houſes, Heaven and Earth, and I have <hi>
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Populi,</hi> and <hi>Vox Dei,</hi> to warrant this bold demand; It is, That you<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ma<gap reason="illegible: damage" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> would be pleaſed to remove Your Th<gap reason="illegible: damage" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> State, and to ſet it up in the hearts of Your People; and as You are de<gap reason="illegible: damage" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>edly the King of hearts, there to receive <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Your People a Crown of hearts. Sir, This Crown hath three excellent <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are properties, 'Tis a ſweet Crown, 'Ti<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Crown and 'tis a laſting Crown; for 'tis a ſweet Crown, for 'tis <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> nothing but the incenſe of praye<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 'tis a faſt Crown, for 'tis ſet upon Your Royal Head b<gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> only hath the power of Hearts, the <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is a laſting Crown, Your Majeſty can never wear it out; <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onger You wear this Crown, it will b<gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for the wearing; and it is the hearty deſires, and m<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt earneſt praye<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of all Your Loyal, Loving, and Faithfull S<gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> You may never change that Crown, till You change it for a better, a Crown of Eternal Glory in the Higheſt Heaven <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lord ſay, <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by a Society of <hi>Stationers,</hi> in the Year, 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
